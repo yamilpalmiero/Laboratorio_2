@@ -1,0 +1,16 @@
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\bin\Debug\net5.0\Consola.exe
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\bin\Debug\net5.0\Consola.deps.json
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\bin\Debug\net5.0\Consola.runtimeconfig.json
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\bin\Debug\net5.0\Consola.runtimeconfig.dev.json
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\bin\Debug\net5.0\Consola.dll
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\bin\Debug\net5.0\ref\Consola.dll
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\bin\Debug\net5.0\Consola.pdb
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\Consola.csproj.AssemblyReference.cache
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\Consola.AssemblyInfoInputs.cache
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\Consola.AssemblyInfo.cs
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\Consola.csproj.CoreCompileInputs.cache
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\Consola.dll
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\ref\Consola.dll
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\Consola.pdb
+E:\Facultad\Laboratorio_2\Clases\Clase_01\Consola\obj\Debug\net5.0\Consola.genruntimeconfig.cache
