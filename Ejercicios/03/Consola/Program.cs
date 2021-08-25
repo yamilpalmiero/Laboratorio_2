@@ -6,45 +6,61 @@ namespace Consola
     {
         static void Main(string[] args)
         {
+            bool error = false;
             int numero;
-            bool esEntero = false;
-            string respuesta = string.Empty;
-            char respuestaFinal;
 
-            Console.WriteLine("Ingrese un numero:");
-            esEntero = int.TryParse(Console.ReadLine(), out numero);
-            Console.WriteLine("Desea salir?");
-            respuesta = Console.ReadLine();
-
-            if (respuesta != "salir")
+            Console.WriteLine("Escriba un numero:");
+            do
             {
-                while (!esEntero)
+                if (!int.TryParse(Console.ReadLine(), out numero) || numero <= 0)
                 {
-                    Console.WriteLine("ERROR. Debe ser un numero!");
-                    esEntero = int.TryParse(Console.ReadLine(), out numero);
+                    Console.WriteLine("\nError. Reingrese numero mayor a 0:");
+                    error = true;
                 }
+                else
+                    error = false;
+            } while (error);
 
-                for (int i = 0; i < numero; i++)
-                {
-                    if (i % 2 != 0)
-                    {
-                        Console.WriteLine("{0}", i);
-                    }
-                }
+            if (numero < 2)
+            {
+                Console.WriteLine("No hay numeros primos.");
             }
             else
             {
-                Console.WriteLine("Desea volver a operar? S/N");
-                respuestaFinal = Console.ReadLine();
-
-                if (respuestaFinal == 's')
+                Console.WriteLine("Numeros Primos:");
+                for (int i = 2; i <= numero; i++)
                 {
+                    if (esPrimo(i))
+                    {
+                        Console.WriteLine(i);
+                    }
+                }
+            }
+        }
 
-                }
-                else
+
+
+
+
+        static bool esPrimo(int numero)
+        {
+            if (numero >= 2)
+            {
+                int contador = 2;
+                bool primo = true;
+
+                while ((primo) && (contador != numero))
                 {
-                    Environment.Exit(0);
+                    if (numero % contador == 0)
+                        primo = false;
+                    contador++;
                 }
+
+                return primo;
+            }
+            else
+            {
+                return false;
             }
         }
     }
