@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{1FEF5D3A-CE30-439C-9FD6-FD930698E324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{84FC0A92-ACAC-47D2-9DDE-F6A430BE6CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEF5D3A-CE30-439C-9FD6-FD930698E324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEF5D3A-CE30-439C-9FD6-FD930698E324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEF5D3A-CE30-439C-9FD6-FD930698E324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEF5D3A-CE30-439C-9FD6-FD930698E324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FC0A92-ACAC-47D2-9DDE-F6A430BE6CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FC0A92-ACAC-47D2-9DDE-F6A430BE6CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FC0A92-ACAC-47D2-9DDE-F6A430BE6CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FC0A92-ACAC-47D2-9DDE-F6A430BE6CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B01CA8-7C75-416C-99C1-6A0B3E9CC089}
+	EndGlobalSection
+EndGlobal
