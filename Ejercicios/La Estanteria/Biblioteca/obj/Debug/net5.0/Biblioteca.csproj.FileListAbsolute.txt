@@ -1,0 +1,12 @@
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\bin\Debug\net5.0\ref\Biblioteca.dll
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+E:\Facultad\Laboratorio_2\Ejercicios\La Estanteria\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb

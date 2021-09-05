@@ -36,13 +36,15 @@ namespace Biblioteca
 
             sb.AppendLine($"Ubicacion: {e.ubicacionEstante}");
 
-            for(int i=0; i < e.productos.Length; i++)
+            for (int i = 0; i < e.productos.Length; i++)
             {
                 if (!(e.productos[i] is null))
                 {
-
+                    sb.AppendLine(Producto.MostrarProducto(e.productos[i]));
                 }
             }
+
+            return sb.ToString();
         }
 
 
@@ -51,8 +53,11 @@ namespace Biblioteca
         {
             for (int i = 0; i < e.productos.Length; i++)
             {
-                if (e.productos[i] ==)
+                if (e.productos[i] == p)
+                    return true;
             }
+
+            return false;
         }
         public static bool operator !=(Estante e, Producto p)
         {
@@ -77,12 +82,15 @@ namespace Biblioteca
         }
         public static Estante operator -(Estante e, Producto p)
         {
-            for (int i = 0; i < e.productos.Length; i++)
+            if (e == p)
             {
-                if (e.productos[i] == p)
+                for (int i = 0; i < e.productos.Length; i++)
                 {
-                    e.productos[i] = null;
-                    break;
+                    if (e.productos[i] == p)
+                    {
+                        e.productos[i] = null;
+                        break;
+                    }
                 }
             }
 

@@ -43,10 +43,12 @@ namespace Biblioteca
 
         public static bool operator ==(Producto p1, Producto p2)
         {
-            if((p1 is null || p2 is null))
+            if (!(p1 is null || p2 is null))
                 return p1.marca == p2.marca && p1.codigoDeBarra == p2.codigoDeBarra;
+            else
+                return false;
         }
-        
+
         public static bool operator !=(Producto p1, Producto p2)
         {
             return !(p1 == p2);
