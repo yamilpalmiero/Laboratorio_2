@@ -19,9 +19,22 @@ namespace Vista
 
         private void btnSaludar_Click(object sender, EventArgs e)
         {
-            FrmSecundario frmSecundario = new FrmSecundario($"Soy {txtNombre.Text} {txtApellido.Text}", "¡Hola, Windows Forms!");
+            FrmSecundario frmSecundario = new FrmSecundario($"Soy {txtNombre.Text} {txtApellido.Text} " +
+                $"y mi materia favorita es {cmbMateria.SelectedItem.ToString()}", "¡Hola, Windows Forms!");
 
             frmSecundario.ShowDialog();
+        }
+
+        private void FrmPrincipal_Load(object sender, EventArgs e)
+        {
+            cmbMateria.Items.Add("Programacion I");
+            cmbMateria.Items.Add("Matematica");
+            cmbMateria.Items.Add("Ingles I");
+            cmbMateria.Items.Add("Sistema de procesamiento de datos");
+            cmbMateria.Items.Add("Programacion II");
+            cmbMateria.Items.Add("Estadistica");
+            cmbMateria.Items.Add("Ingles II");
+            cmbMateria.Items.Add("Arquitectura y sistemas operativos");
         }
     }
 }

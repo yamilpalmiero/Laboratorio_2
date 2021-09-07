@@ -1,0 +1,15 @@
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\bin\Debug\net5.0\Diccionarios.exe
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\bin\Debug\net5.0\Diccionarios.deps.json
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\bin\Debug\net5.0\Diccionarios.runtimeconfig.json
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\bin\Debug\net5.0\Diccionarios.runtimeconfig.dev.json
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\bin\Debug\net5.0\Diccionarios.dll
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\bin\Debug\net5.0\ref\Diccionarios.dll
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\bin\Debug\net5.0\Diccionarios.pdb
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\obj\Debug\net5.0\Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\obj\Debug\net5.0\Diccionarios.AssemblyInfoInputs.cache
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\obj\Debug\net5.0\Diccionarios.AssemblyInfo.cs
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\obj\Debug\net5.0\Diccionarios.csproj.CoreCompileInputs.cache
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\obj\Debug\net5.0\Diccionarios.dll
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\obj\Debug\net5.0\ref\Diccionarios.dll
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\obj\Debug\net5.0\Diccionarios.pdb
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Diccionarios\obj\Debug\net5.0\Diccionarios.genruntimeconfig.cache

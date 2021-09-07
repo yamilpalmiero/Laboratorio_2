@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Vista\Arrays.csproj", "{093E23E2-A5A1-4B08-8FF2-A5864F0383D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{3945E038-C709-475D-BD55-AF7B47A1DB34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diccionarios", "Diccionarios\Diccionarios.csproj", "{31FC1BD1-DB66-40CD-A844-C319A0924C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{093E23E2-A5A1-4B08-8FF2-A5864F0383D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093E23E2-A5A1-4B08-8FF2-A5864F0383D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093E23E2-A5A1-4B08-8FF2-A5864F0383D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093E23E2-A5A1-4B08-8FF2-A5864F0383D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3945E038-C709-475D-BD55-AF7B47A1DB34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3945E038-C709-475D-BD55-AF7B47A1DB34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3945E038-C709-475D-BD55-AF7B47A1DB34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3945E038-C709-475D-BD55-AF7B47A1DB34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FC1BD1-DB66-40CD-A844-C319A0924C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FC1BD1-DB66-40CD-A844-C319A0924C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FC1BD1-DB66-40CD-A844-C319A0924C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FC1BD1-DB66-40CD-A844-C319A0924C37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B65E9FC-C4FB-410A-9B69-1C7CAC7A56F6}
+	EndGlobalSection
+EndGlobal

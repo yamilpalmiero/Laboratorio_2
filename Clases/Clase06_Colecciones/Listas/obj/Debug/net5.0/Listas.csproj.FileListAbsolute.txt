@@ -1,0 +1,15 @@
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\bin\Debug\net5.0\Listas.exe
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\bin\Debug\net5.0\Listas.deps.json
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\bin\Debug\net5.0\Listas.runtimeconfig.json
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\bin\Debug\net5.0\Listas.runtimeconfig.dev.json
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\bin\Debug\net5.0\Listas.dll
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\bin\Debug\net5.0\ref\Listas.dll
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\bin\Debug\net5.0\Listas.pdb
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\obj\Debug\net5.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\obj\Debug\net5.0\Listas.AssemblyInfoInputs.cache
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\obj\Debug\net5.0\Listas.AssemblyInfo.cs
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\obj\Debug\net5.0\Listas.csproj.CoreCompileInputs.cache
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\obj\Debug\net5.0\Listas.dll
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\obj\Debug\net5.0\ref\Listas.dll
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\obj\Debug\net5.0\Listas.pdb
+E:\Facultad\Laboratorio_2\Clases\Clase06_Colecciones\Listas\obj\Debug\net5.0\Listas.genruntimeconfig.cache

@@ -34,6 +34,8 @@ namespace Vista
             this.txtApellido = new System.Windows.Forms.TextBox();
             this.lblApellido = new System.Windows.Forms.Label();
             this.btnSaludar = new System.Windows.Forms.Button();
+            this.cmbMateria = new System.Windows.Forms.ComboBox();
+            this.lblMateria = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblNombre
@@ -72,7 +74,7 @@ namespace Vista
             // 
             // btnSaludar
             // 
-            this.btnSaludar.Location = new System.Drawing.Point(268, 115);
+            this.btnSaludar.Location = new System.Drawing.Point(268, 212);
             this.btnSaludar.Name = "btnSaludar";
             this.btnSaludar.Size = new System.Drawing.Size(160, 40);
             this.btnSaludar.TabIndex = 4;
@@ -80,20 +82,43 @@ namespace Vista
             this.btnSaludar.UseVisualStyleBackColor = true;
             this.btnSaludar.Click += new System.EventHandler(this.btnSaludar_Click);
             // 
+            // cmbMateria
+            // 
+            this.cmbMateria.FormattingEnabled = true;
+            this.cmbMateria.Location = new System.Drawing.Point(46, 152);
+            this.cmbMateria.Name = "cmbMateria";
+            this.cmbMateria.Size = new System.Drawing.Size(382, 28);
+            this.cmbMateria.TabIndex = 5;
+            // 
+            // lblMateria
+            // 
+            this.lblMateria.AutoSize = true;
+            this.lblMateria.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.lblMateria.Location = new System.Drawing.Point(45, 118);
+            this.lblMateria.Name = "lblMateria";
+            this.lblMateria.Size = new System.Drawing.Size(124, 20);
+            this.lblMateria.TabIndex = 6;
+            this.lblMateria.Text = "Materia Favorita\r\n";
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(480, 212);
+            this.ClientSize = new System.Drawing.Size(480, 316);
+            this.Controls.Add(this.lblMateria);
+            this.Controls.Add(this.cmbMateria);
             this.Controls.Add(this.btnSaludar);
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.lblApellido);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.lblNombre);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FrmPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "¡Hola, Windows Forms!";
+            this.Load += new System.EventHandler(this.FrmPrincipal_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -106,6 +131,8 @@ namespace Vista
         private System.Windows.Forms.TextBox txtApellido;
         private System.Windows.Forms.Label lblApellido;
         private System.Windows.Forms.Button btnSaludar;
+        private System.Windows.Forms.ComboBox cmbMateria;
+        private System.Windows.Forms.Label lblMateria;
     }
 }
 
