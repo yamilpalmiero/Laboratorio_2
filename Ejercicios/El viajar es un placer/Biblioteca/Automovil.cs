@@ -16,7 +16,7 @@ namespace Biblioteca
 
         public string MostrarAutomovil()
         {
-            return $"***Automovil***{base.Mostrar()}\nMarchas: {this.cantidadMarchas}\nPasajeros: {this.cantidadPasajeros}\n";
+            return $"***AUTOMOVIL***{base.Mostrar()}\nMarchas: {this.cantidadMarchas}\nPasajeros: {this.cantidadPasajeros}\n";
         }
     }
 }
